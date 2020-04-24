@@ -1,2 +1,4 @@
 # addActivitiesVanilla
-Ejemplo de CRUD con Javascript Vanilla, muestra un listado de actividades que son almacenados en el local storage los cuales pueden ser editados y eliminados.
+Ejemplo sencillo de un CRUD con Javascript Vanilla, muestra un listado de actividades que son almacenados en el local storage 
+la funcionalidad es que se puede agregar, editar y eliminar una tarea. 
+
